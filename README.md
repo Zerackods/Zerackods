@@ -13,13 +13,13 @@ Data Analyst & Web Developer
 </strong></p>
 
 
-
+<img align="right" width=200px height=200px alt="side_GIF" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 * 🌍  I'm based in Mexico
 * ✉️  You can contact me at [cesarods.contacto@gmail.com](mailto:cesarods.contacto@gmail.com)
 * 🧠  I'm learning Angular & Python
 * I’m currently open for an Intern or a new job opportunity 
 <!--* 🖥️  See my portfolio at [CesarProfile](http://linktr.ee/zerackods) -->
- <img align="right" width=200px height=200px alt="side_GIF" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+ 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 

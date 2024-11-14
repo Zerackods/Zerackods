@@ -12,7 +12,9 @@ Data Analyst & Web Developer
    I've learned and applied different tools related to information technologies at the university, professional internships and certified courses.
 </strong></p>
 
-* 🌍  I'm based in Mexico <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+ <img align="right" width=200px height=200px alt="side_GIF" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+ 
+* 🌍  I'm based in Mexico
 * ✉️  You can contact me at [cesarods.contacto@gmail.com](mailto:cesarods.contacto@gmail.com)
 * 🧠  I'm learning Angular & Python
 * I’m currently open for an Intern or a new job opportunity 

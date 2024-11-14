@@ -12,7 +12,7 @@ Data Analyst & Web Developer
    I've learned and applied different tools related to information technologies at the university, professional internships and certified courses.
 </strong></p>
 
-<img align="right" width=250px height=250px alt="side_GIF" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img align="right" width=280px height=280px alt="side_GIF" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 * 🌍  I'm based in Mexico
 * ✉️  You can contact me at [cesarods.contacto@gmail.com](mailto:cesarods.contacto@gmail.com)

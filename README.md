@@ -79,12 +79,9 @@ Data Analyst & Web Developer
     <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"
   </a>
   
-<br>
-
-
-
-<br>
-
 -----
 
-<br>
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>

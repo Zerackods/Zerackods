@@ -8,7 +8,6 @@
 Data Analyst & Web Developer
 ----------------------------
 <p><strong>
-   I’m 23 years old, I graduated in Systems Administration Engineering from the UANL - Facultad de Ingeniería Mecánica y Eléctrica. In my professional career
    I've learned and applied different tools related to information technologies at the university, professional internships and certified courses.
 </strong></p>
 

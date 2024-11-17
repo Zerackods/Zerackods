@@ -70,7 +70,7 @@ Data Analyst & Web Developer
 </p>
 
 <h2>Check out my social Media</h2>
-  <a href="https://www.linkedin.com/in/cesar-delgado-65185b232/">
+  <a href="#">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
   </a>
   <a href="https://www.instagram.com/zerackods/">

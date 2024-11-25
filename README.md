@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Cesar Delgado </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=6060ff&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Analyst+and+Web+Developer...;Engineering+degree...;Mty,+Nuevo+Leon,+Mexico...;Active+Learner/Researcher...,;Love+to+learn+new+stuffs...<3"></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Analyst+and+Web+Developer...;Engineering+degree...;Mty,+Nuevo+Leon,+Mexico...;Active+Learner/Researcher...,;Love+to+learn+new+stuffs...<3"></a>
 </p>
 
 

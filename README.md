@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Cesar Delgado </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Analyst+and+Web+Developer...;Engineering+degree...;Mty,+Nuevo+Leon,+Mexico...;Active+Learner/Researcher...,;Love+to+learn+new+stuffs...<3"></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=6060ff&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Analyst+and+Web+Developer...;Engineering+degree...;Mty,+Nuevo+Leon,+Mexico...;Active+Learner/Researcher...,;Love+to+learn+new+stuffs...<3"></a>
 </p>
 
 
@@ -23,10 +23,9 @@ Data Analyst & Web Developer
 
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
 
 <p align="center">
 
@@ -67,10 +66,10 @@ Data Analyst & Web Developer
     ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
     ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
     ![Microsoft SharePoint ](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
-
 </p>
 
 <h2>Check out my social Media</h2>
+<div>
   <a href="#">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
   </a>
@@ -83,9 +82,18 @@ Data Analyst & Web Developer
   <a href="https://www.twitch.tv/zerackods">
     <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"
   </a>
-  
+</div>
+
 -----
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/Zerackods/count.svg" /></p> 
+<br>
+</div>
+
+-----
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />

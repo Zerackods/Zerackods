@@ -76,12 +76,6 @@ Data Analyst & Web Developer
   <a href="https://www.instagram.com/zerackods/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
   </a>
-  <a href="https://www.tiktok.com/@zerackods">
-    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"
-  </a>
-  <a href="https://www.twitch.tv/zerackods">
-    <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"
-  </a>
 </div>
 
 -----
